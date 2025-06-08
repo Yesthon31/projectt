@@ -50,4 +50,4 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[OP.GG](https://op.gg)**
 
 
-yametee kuda kuda
+yametee boa boa
